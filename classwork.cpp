@@ -21,6 +21,19 @@ int main()
 {
     // You can follow along with any code in class here
 
+    num sqaure(int n)
+    {
+        return n*n;
+    }
+
+int main()
+{
+    std:;cout << "Give number: ";
+    int x;
+    std::cin >> x;
+
+    std::cout << "The square of " << x << " is " 
+}
     
     return 0;
 }
